@@ -21,7 +21,9 @@
   * [Questions](#Questions)
 
   ## Installation
-  <code>clone npm run develop</code>
+         https://github.com/Erebus009/Redux_Store.git
+         npm i
+         npm run develop
   ## Usage
   <code>n/a</code>
   

@@ -2,7 +2,7 @@
    
   
   # Description
-  Trun an online store from using to context APi to using React-redux provider to enable better data flow without having to go down each component to update the state.
+  Turn an online store from using to context APi to using React-redux provider to enable better data flow without having to go down each component to update the state.
   # Licensed Under
   ![GitHub license](https://img.shields.io/badge/License-MIT-black.svg)
   # Table of Contents

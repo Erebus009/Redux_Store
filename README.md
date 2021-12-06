@@ -1,5 +1,6 @@
 # Redux Store
-   
+   ![image](https://user-images.githubusercontent.com/12164234/144870419-28cb2844-18b5-4937-bbb1-79a4e6d517e3.png)
+
   
   # Description
   Turn an online store from using to context APi to using React-redux provider to enable better data flow without having to go down each component to update the state.
